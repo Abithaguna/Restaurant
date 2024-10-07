@@ -1,0 +1,29 @@
+.box{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 10px;
+    background: linear-gradient(blue,green
+    );
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 10px;
+    background: radial-gradient(black, grey);
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 10px;
+    background: radial-gradient( blue 60%,blue,green 20%,green);
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 10px;
+    background: repeating-radial-gradient(aqua 10px,aqua 20px,maroon 10px, maroon 30px)
+}

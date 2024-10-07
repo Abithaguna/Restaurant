@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+   
+}
+table{
+    margin: auto;
+    border: 4px solid black;
+    padding: 2px 2px 2px 2px;
+    background-color: khaki;
+   
+  
+}
+h2{
+    color: brown;
+    border: 4px double violet  ;
+    background-color: antiquewhite;
+   
+}
+p{
+   text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px double red;
+    background-color: bisque;
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+    padding: 4px 4px 4px 4px;
+
+}
+thead th{
+    border: 4px solid black;
+    border-collapse: collapse;
+    background-color:aliceblue;
+    border-top: 0px important;
+}
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: azure;
+}
+

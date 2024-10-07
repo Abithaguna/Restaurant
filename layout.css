@@ -1,0 +1,78 @@
+.bluebox{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+.yellowbox{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: 300px;
+    top: 35px;
+}
+
+.bluebox1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 500px;
+    top: 0px;
+}
+
+.bluebox2{
+    background-color:brown;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 10px;
+}
+
+.yellowbox1{
+    background-color:aqua;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: 300px;
+    top: 280px;
+}
+
+.bluebox3{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 500px;
+    top: 230px;
+}
+
+
+.bluebox4{
+    background-color:green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+}
+
+.yellowbox2{
+    background-color:orange;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: 300px;
+    top: 500px;
+}
+
+.bluebox5{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 500px;
+    top: 460px;
+}
+

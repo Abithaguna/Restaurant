@@ -1,0 +1,167 @@
+h2{
+ font-family: cursive;
+ font-size: 2em;
+ color: orangered;
+ background-color: darkkhaki;
+ text-align: center;
+
+}
+
+h1{
+    background-color: burlywood;
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+    font-size: 3em;
+    
+}
+h3{
+    background-color: burlywood;
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    background-image: url(/home.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-size: 1.5em;
+    color: white;
+   
+}
+ body{
+    background-image: url(/home.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+} 
+
+.nav{
+   
+    display: inline;
+    font-size: 2em;
+    border: 2px solid white;
+    border-width: 100%;
+    float: right;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+}
+
+.brk{
+background-image: url(/brk.jpg);
+background-attachment:fixed ;
+
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
+.rice{
+    background-image: url(/rice.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: lemonchiffon;
+}
+.salad{
+    background-image:url(/salad.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:black;
+}
+.cake{
+    background-image: url(/cake.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:white;
+}
+.chicken{
+    background-image: url(/grill.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: antiquewhite;
+}
+.juice{
+    background-image:url(/juice.jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    
+}
+td{
+    font-size: 2em;
+}
+tr{
+    margin: auto;
+    border: 0px solid black;
+    
+    text-align: center;
+}
+table{
+    top: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.break{
+   background-image: url(/brk.jpg);
+   background-repeat: no-repeat;
+   
+    height: 350px;
+    width:550px;
+    position: relative;
+    margin: 100px 400px 10px 400px;
+}
+
+.saladd{
+    background-image: url(/salad.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    width:550px;
+    position:relative;
+    margin: 100px 400px 10px 400px;
+  
+}
+
+.ricebow{
+    background-image: url(rice.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    width:550px;
+    position: relative;
+    margin: 100px 400px 10px 400px;
+}
+.grill{
+    background-image: url(/grill.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    width:550px;
+    position:relative;
+    margin: 100px 400px 10px 400px;
+}
+
+.cakee{
+    background-image: url(/cake.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    width:550px;
+    position:relative;
+    margin: 100px 400px 10px 400px;
+}
+
+.juicee{
+    background-image: url(/juice.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    width:550px;
+    position: relative;
+    margin: 100px 400px 10px 400px;
+}
+
+.total{
+    position: absolute;
+}
+

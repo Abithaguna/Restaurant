@@ -1,0 +1,169 @@
+/* h1,h2{
+color: blue;
+}
+
+h3{
+    color: red;
+}
+ h1+h2{
+    color: violet;
+ }
+ #id{
+    color: brown;
+ }
+ .city{
+    color: aqua;
+ }
+ div>p{
+ color: black;
+ }
+  h1~h2{
+    color: darkgreen;
+  }
+  *{
+    color: gray;
+  } */
+
+
+
+
+
+  /* selectors*/
+/* 1.simple selector */
+/* h2{
+   color:brown ;
+} */
+
+
+/* 2.combinator */
+
+
+/*div p{                                /* 2.1 descendant */
+   /*color: rgb(18, 214, 44);        
+   }
+
+ div >a{                              /* 2.2 child selector*/
+  /* color: darkblue;
+ }  
+
+ h2~h4{                               /*sibling selector */
+   /*color: darkgoldenrod;
+ }
+
+ h2+h3{                               /*adjacent selector */
+   /*color: darkmagenta;
+ }
+
+
+
+
+ /* pseudo selector */
+
+ /* a:link{
+   color: yellow;
+ }
+
+ a:visited{
+   color:darkgreen
+ }
+
+ a:hover{
+   color: deepskyblue;
+ }
+
+ a:active{
+   color: darkred;
+ } */
+
+
+ /* pseudo element selector */
+
+ /* p::first-line{
+   color: gray;
+   font-family: cursive;
+ }
+ */
+
+ /* attribute selector */
+ /* a[facebook]{
+   background-color: darkslategray;
+ }
+
+ a[target="blank"]{
+   background-color:lightseagreen;
+ }
+
+ [title~="backend"]{
+   color: navy;
+ }
+
+ [class*="city"]{
+   background-color: paleturquoise;
+ }
+
+  */
+
+  #fontfamily{
+    font-family: cursive;
+    color: aqua;
+  }
+
+  #fontsize{
+    font-size: 2em;
+    color: violet;
+  }
+
+  #fontweight{
+     font-weight:thick;
+     color: chartreuse;
+  }
+
+  #fontstyle{
+    font-style: italic;color: blue;
+  }
+
+  #fontstretch{
+    font-stretch: expanded;
+    color: darkgreen;
+  }
+
+  #texttransform{
+    text-transform: uppercase;
+    color: rgb(18, 224, 224);
+  }
+
+  #textdecoration{
+    text-decoration: line-through;
+    color: darkorange;
+  }
+  
+  #textalign{
+    text-align:center ;
+    color:deeppink;
+  }
+
+  #wordspacing{
+    word-spacing: 0.5em;
+    color: grey;
+  }
+
+  #letterspacing{
+    letter-spacing: 0.25em;
+    color: crimson;
+  }
+    
+  #textshadow{
+    text-shadow: 2px 2px 2px red;
+  }
+
+  #textindent{
+    text-indent: 0.5em;
+    color: skyblue;
+  }
+
+  #textalign1{
+    text-align: justify;
+    color: brown;
+    text-indent: 1em;
+  }
+  
